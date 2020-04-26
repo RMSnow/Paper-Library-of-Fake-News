@@ -90,3 +90,8 @@
   - National Research Council Canada (NRC)
 
   - *Plutchik’s (31) work on basic emotion*
+
+## Conferences
+
+- ICWSM@AAAI
+- SemEval
