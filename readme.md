@@ -33,7 +33,7 @@
 **Detecting Rumor Patterns in Streaming Social Media. Big Data 2015.**
 
 - 在「**支持；反对；质疑**」这三种**态度（观点）**中：对于真实新闻，表示支持的人数更多；对于谣言，表示反对、质疑的人数更多。
-- Rumor与Truth相比，其独有的Patter，比如 `Deny->Question->Question`。
+- Rumor与Truth相比，其独有的Pattern，比如 `Deny->Question->Question`。
 
 **The spread of true and false news online. Science 2018.**
 
